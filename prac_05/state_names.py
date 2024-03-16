@@ -12,4 +12,4 @@ try:
     if not state_code:
         print(state_code, "is", CODE_TO_NAME[state_code])
 except KeyError:
-    print("Invalid state name")
+    print("Invalid state name.")
