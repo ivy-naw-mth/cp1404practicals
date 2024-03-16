@@ -11,6 +11,7 @@ COLORS = {
     "BrickRed":"#cb4154"}
 
 def main():
+    """Validate colour name and print corresponding code"""
     color_name = validate_color_name()
     while color_name != "":
         color_code = COLORS[color_name]
