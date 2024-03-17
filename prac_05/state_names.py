@@ -8,8 +8,9 @@ for state_code in CODE_TO_NAME:
 
 #5. "Easier to Ask Forgiveness than Permission"
 state_code = input("Please enter state name: ").upper()
-try:
-    if not state_code:
+while state_code != "":
+    try:
         print(state_code, "is", CODE_TO_NAME[state_code])
-except KeyError:
-    print("Invalid state name.")
+    except KeyError:(
+        print("Invalid state name."))
+    state_code = input("Please enter state name: ").upper()
