@@ -27,5 +27,3 @@ class Guitar:
     def __lt__(self, other):
         """Compare 2 guitar instances based on their manufacturing years"""
         return self.year < other.year
-
-
