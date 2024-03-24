@@ -14,5 +14,4 @@ def main():
     for guitar in sorted_guitars:
         print(guitar)
 
-
 main()

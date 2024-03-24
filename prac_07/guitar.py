@@ -23,3 +23,4 @@ class Guitar:
     def __lt__(self, other):
         """Less-than comparison based on the year attribute"""
         return self.year < other.year
+
