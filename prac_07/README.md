@@ -1,4 +1,6 @@
-## CP1404 - Practical 07
+# CP1404 Practicals
+
+## Practical 07
 
 # Brief Information About The Repo And Myself 
 My full name is "Naw May Thu Han" and my English name is "Ivy".
@@ -18,3 +20,6 @@ Here are 3 lessons (important notes) for clean code
 ## Links to the Programming Patterns Page and CP1404 Practicals instruction repo
 - https://github.com/CP1404/Starter/wiki/Programming-Patterns
 - https://github.com/CP1404/Practicals/tree/master
+
+
+Practical work for IT@JCU CP1404
