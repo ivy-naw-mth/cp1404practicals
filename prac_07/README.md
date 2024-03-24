@@ -1,4 +1,4 @@
-# CP1404 Practicals
+### CP1404 Practicals
 
 ## Practical 07
 
@@ -21,5 +21,4 @@ Here are 3 lessons (important notes) for clean code
 - https://github.com/CP1404/Starter/wiki/Programming-Patterns
 - https://github.com/CP1404/Practicals/tree/master
 
-
-Practical work for IT@JCU CP1404
+## Practical work for IT@JCU CP1404
