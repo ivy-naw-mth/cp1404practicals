@@ -13,7 +13,7 @@ class BoxLayoutDemo(App):
         self.root.ids.output_label.text = f"Hello {self.root.ids.input_name.text}"
 
     def handle_clear(self):
-        print(test)
+        print("test")
         self.root.ids.input_name.text = ""
         self.root.ids.output_label.text = ""
 
