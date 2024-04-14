@@ -22,3 +22,5 @@ class Band:
     def play(self):
         """Let each musician play their instruments if they have"""
         return "\n".join([musician.play() for musician in self.musicians])
+
+
