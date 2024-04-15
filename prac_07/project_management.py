@@ -11,6 +11,7 @@ MENU = """- (L)oad projects
 class_projects = []
 project_dictionary = {}
 
+
 def main():
     with open("projects.txt", "r", encoding="utf-8-sig") as in_file:
         data = in_file.readlines()

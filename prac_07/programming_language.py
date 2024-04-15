@@ -3,6 +3,7 @@ CP1404/CP5632 Practical - Suggested Solution
 Programming Language class with tests.
 """
 
+
 class ProgrammingLanguage:
     """Represent information about a programming language."""
 
@@ -22,6 +23,7 @@ class ProgrammingLanguage:
     def is_dynamic(self):
         """Determine if language is dynamically typed."""
         return self.typing == "Dynamic"
+
 
 def run_tests():
     """Run simple tests/demos on ProgrammingLanguage class."""

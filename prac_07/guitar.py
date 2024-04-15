@@ -1,6 +1,7 @@
 CURRENT_YEAR = 2024
 VINTAGE_YEAR = 50
 
+
 class Guitar:
     """Class for storing data and determining old guitar or not"""
     def __init__(self, name="", year=0, cost=0):

@@ -1,6 +1,7 @@
 from prac_07.guitar import Guitar
 in_file = "guitars.csv"
 
+
 def main():
     guitars = []
     with open(in_file, 'r') as infile:
@@ -16,3 +17,5 @@ def main():
 
 
 main()
+
+
