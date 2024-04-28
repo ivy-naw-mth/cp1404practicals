@@ -83,3 +83,4 @@ def format_phrase_to_sentence(phrase):
 assert format_phrase_to_sentence("hello") == "Hello."
 assert format_phrase_to_sentence("It is an ex parrot.") == 'It is an ex parrot.'
 assert format_phrase_to_sentence("a valid phrase") == 'A valid phrase.'
+
