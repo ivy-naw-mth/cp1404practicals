@@ -17,3 +17,4 @@
 
 1. [Prac07 - Code Review] (https://github.com/Quinn368/cp1404practicals/pull/4#issuecomment-2028794426) Review about "while True" is not good for standard coding format.
 2. [Prac 06 - Code Review] (https://github.com/Anastasia-Eremenko/CP1404_ana/pull/2#event-12224370340) Review about "Dictionaries and their usages".
+
