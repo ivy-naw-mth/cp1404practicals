@@ -34,6 +34,3 @@ print("Current fare:", my_taxi.get_fare())
 #     print(my_taxi)
 #     print("Current fare:", my_taxi.get_fare())
 # main()
-
-
-
