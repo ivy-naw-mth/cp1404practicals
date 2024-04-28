@@ -20,5 +20,3 @@ class Project:
     def __lt__(self, other):
         """Sort the list of projects based on priority number."""
         return self.priority < other.priority
-
-
