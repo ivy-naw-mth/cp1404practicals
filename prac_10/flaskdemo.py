@@ -52,4 +52,3 @@ def get_page(search_term):
 
 if __name__ == '__main__':
     app.run()
-
